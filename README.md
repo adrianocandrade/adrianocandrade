@@ -1,6 +1,6 @@
 ## Oiii! Eu sou Adriano Andrade
 
-- ❤️ Trabalho com Front-end
+- ❤️ Trabalho como Front-end
 - 🔥 Atualmente estou estudando React e VTEXIO
 
  <div>
