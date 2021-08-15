@@ -19,6 +19,7 @@
   <img align="center" alt="Adriano-VUEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Adriano-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Adriano-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Adriano-VTEX" width="40" src="https://avatars.githubusercontent.com/u/1288938?s=60&v=4">
 </div>
   
   ##
